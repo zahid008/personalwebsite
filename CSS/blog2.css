@@ -1,0 +1,12 @@
+.blogs
+{
+    background-color: white;
+    position: relative;
+    bottom: 700px;
+    width: 1350px;
+    height: 1000px;
+    left: 250px;
+    overflow: auto;
+    text-align: justify;
+
+}

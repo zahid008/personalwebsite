@@ -1,0 +1,20 @@
+p{
+  color: black;
+  font-size: 40px;
+  font-family: Cinzel;
+}
+
+.p2_image1,p2_image2,p2_image3
+{
+    width: 320px;
+    height: 185px;
+
+    border-style: groove;
+}
+
+video
+{
+    border-style: groove;
+    width: 320px;
+    height: 240px;
+}

@@ -1,0 +1,35 @@
+span{
+    display: block;
+}
+
+
+
+.bio{
+  color: black;
+  font-size: 60px;
+  font-family: Cinzel;
+}
+
+.intro{
+
+    font-size: 20px;
+}
+
+p{
+  color: black;
+  font-size: 40px;
+  font-family: Cinzel;
+}
+
+.lec_subhead{
+    color: black;
+    font-size: 25px;
+}
+
+.skills_table{
+
+    width: 50%;
+    left: 50%;
+
+    background-color: white;
+}

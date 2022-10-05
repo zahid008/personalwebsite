@@ -1,0 +1,16 @@
+
+.intro{
+    text-align: center;
+}
+
+p{
+  color: black;
+  font-size: 40px;
+  font-family: Cinzel;
+}
+
+
+button
+{
+    border-radius: 0 !important;
+}
